@@ -1,4 +1,4 @@
-# MultiPDF Chat App
+# MultiPDF Chat App - mdified by HCU team
 
 > You can find the tutorial for this project on [YouTube](https://youtu.be/dXxQ0LR-3Hg).
 
